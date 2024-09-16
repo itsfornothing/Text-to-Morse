@@ -1,0 +1,97 @@
+header{
+height:10vh;
+background-color: #B99470;
+}
+.icon{
+border-radius: 50%;
+width: 30px;
+height:30px;
+}
+
+.main{
+height:85vh;
+width: 100%;
+display:inline;
+ display: flex;
+ justify-content:space-around;
+ align-items:center;
+ background-color:#FEFAE0;
+}
+textarea{
+width:450px;
+height:300px;
+border: 2px solid #295F98;
+background-color: #A6B37D;
+
+}
+
+label{
+color:#A6B37D;
+font-size: 24px;
+font-family: "Times New Roman", Times, serif;
+
+}
+h5{
+color:#A6B37D;
+}
+.main_text{
+text-align:center;
+ background-color:#FEFAE0;
+ margin-bottom:0px;
+ color:#A6B37D;
+}
+.my_container{
+background-color:#FEFAE0;
+height:100vh;
+display: flex;
+ justify-content:center;
+ align-items:center;
+
+}
+input{
+height:40px;
+width:300px;
+margin-bottom:10px;
+margin-top:10px;
+order-width: 2px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-color: #1230AE;
+  background-color:#FFF7F7;
+}
+#message{
+order-width: 2px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-color: #1230AE;
+  width:300px;
+background-color:#FFF7F7;
+
+}
+.contact_img{
+height:400px;
+width:300px;
+float: left;
+margin-right:50px;
+border-radius:10%;
+}
+.title{
+display:inline
+
+}
+.text_part{
+float:right;
+
+}
+.links{
+float: right;
+margin-left:50px;
+}
+#github{
+margin-bottom:150px;
+}
+span{
+color:#0B2F9F;
+}
